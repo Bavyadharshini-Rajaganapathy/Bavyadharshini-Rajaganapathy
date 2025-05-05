@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bavyadharshini</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **bavyadharshinir@gmail.com**
 
